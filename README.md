@@ -1,0 +1,1 @@
+This is a subdir to test submodules in git

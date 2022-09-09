@@ -1,0 +1,3 @@
+[submodule "cd-five-mins"]
+	path = cd-five-mins
+	url = git@github.com:nightmar39/cd-five-mins.git
