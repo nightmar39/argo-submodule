@@ -12,7 +12,7 @@ spec:
     name: in-cluster
   project: default
   source:
-    path: ./cd-five-mins/k8s-resources/express/overlays/dev
+    path: ./k8s-resources/express/overlays/dev
     repoURL: https://github.com/nightmar39/cd-five-mins.git
     targetRevision: main
   syncPolicy:
