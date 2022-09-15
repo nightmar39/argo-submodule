@@ -1,7 +1,6 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  namespace: csdp-july
   name: express-dev
   labels:
     app: express-dev
