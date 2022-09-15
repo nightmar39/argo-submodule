@@ -14,7 +14,7 @@ spec:
   source:
     repoURL: git@github.com:nightmar39/argo-submodule.git
     targetRevision: main
-    path: ./k8s-resources/nginx-pod/dev
+    path: ./cd-five-mins/k8s-resources/nginx-pod/dev
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
