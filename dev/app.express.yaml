@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     path: ./cd-five-mins/k8s-resources/express/overlays/dev
-    repoURL: https://github.com/nightmar39/cd-five-mins.git
+    repoURL: https://github.com/nightmar39/argo-submodule.git
     targetRevision: main
   syncPolicy:
     syncOptions:
