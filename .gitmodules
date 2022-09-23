@@ -1,4 +1,4 @@
 [submodule "cd-five-mins"]
 	path = cd-five-mins
-	url = git@github.com:nightmar39/cd-five-mins.git
+	url = https://github.com/nightmar39/argo-submodule.git
 	branch = main
