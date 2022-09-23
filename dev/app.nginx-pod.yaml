@@ -12,7 +12,7 @@ spec:
     namespace: nginx-pod-dev
     name: in-cluster
   source:
-    repoURL: git@github.com:nightmar39/argo-submodule.git
+    repoURL: https://github.com/nightmar39/argo-submodule.git
     targetRevision: main
     path: ./cd-five-mins/k8s-resources/nginx-pod/dev
   syncPolicy:
